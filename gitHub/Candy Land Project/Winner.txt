@@ -1,0 +1,40 @@
+The winner was: athena
+Their character was: Toffee_Todd
+Their gold left was: 12
+Their stamina left was: 74
+Their final inventory left was: 
+Frosty Fizz : Boosts player's stamina by 10 units
+Toxic Taffy : Decreases opponents stamina by 20 units(strong)
+Bubblegum Blast : Protects against mild poison candy
+Caramel Comet : Protects against all poison candies
+Lucky Licorice : Decreases opponents stamina by 10 units (mild)
+
+
+
+
+Next Game: 
+The winner was: matt
+Their character was: JellyBean_Jane
+Their gold left was: 0
+Their stamina left was: 46
+Their final inventory left was: 
+Breezy Butterscotch : Boosts player's stamina by 15 units
+Lucky Licorice : Decreases opponents stamina by 10 units (mild)
+Fearsome Fudge : Forms a gummy barrier on a chosen tile and opponent loses 1 turn
+Frosty Fizz : Boosts player's stamina by 10 units
+Caramel Comet : Protects against all poison candies
+
+
+
+
+Next Game: 
+The winner was: Katarina
+Their character was: Firey_Fatima
+Their gold left was: 0
+Their stamina left was: 84
+Their final inventory left was: 
+
+
+
+
+Next Game: 
