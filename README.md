@@ -1,10 +1,9 @@
 Hi, I'm Athena Georgelas!
-I am a current student at the University of Colorado, Boulder.
-Currently I study Mathematics, but I have experience in Mechanical Engineering.
-I will be declaring a minor in Computer Science and Russian Studies soon!
+I am a current student at Virginia Polytechnic and State University.
+I study applied discrete mathematics and a minor in business.
 
-As of right now, I primarity use C++, however I am currently learning R and matLab.
-My next goal is to build an app!
+As of right now, I use C++, MATLAB, Java.
+My next goal is to add Python to that list!
 
 How to reach me:
 
