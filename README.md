@@ -1,12 +1,12 @@
-Hi, I'm Athena Georgelas!
-I am a current student at Virginia Polytechnic and State University.
-I study applied discrete mathematics and I have a minor in business.
+Hi, my name is Athena Georgelas.
+I am a current sophomore at Virginia Tech.
+I study applied discrete mathematics and I am minoring in business.
 
-As of right now, I use C++, MATLAB, Java.
-My next goal is to add Python to that list!
+As of right now, I mainly work with C++ and MATLAB.
+However, I am self-studying Java and Python.
 
 How to reach me:
 
 email: athenasofg@gmail.com
 
-phone number: 571-253-4877
+phone: 571-253-4877
